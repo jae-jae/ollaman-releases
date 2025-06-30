@@ -6,6 +6,13 @@
 
 OllaMan is an elegant desktop application that makes managing Ollama AI models simple and intuitive. With a beautiful interface designed for modern desktops, it provides everything you need to discover, install, and chat with AI models effortlessly.
 
+## 🚀 Get Started
+
+1. **Download** the app from [ollaman.com](https://ollaman.com)
+2. **Install** following the simple setup guide
+3. **Connect** to your Ollama server
+4. **Start chatting** with AI models right away
+
 ## 🚀 Key Features
 
 ### **Smart Model Management**
@@ -51,9 +58,4 @@ OllaMan is an elegant desktop application that makes managing Ollama AI models s
 
 Available for **macOS**, **Windows**, and **Linux** - works seamlessly on all major desktop platforms.
 
-## 🚀 Get Started
 
-1. **Download** the app from [ollaman.com](https://ollaman.com)
-2. **Install** following the simple setup guide
-3. **Connect** to your Ollama server
-4. **Start chatting** with AI models right away
